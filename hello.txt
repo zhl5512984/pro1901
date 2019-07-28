@@ -1,1 +1,2 @@
 hello 我的第一个git文件,我要上传到GitHub
+2 developer人修改了这个代码
